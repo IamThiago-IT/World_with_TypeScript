@@ -1,1 +1,1 @@
-Mary
+Estudos com typescript
