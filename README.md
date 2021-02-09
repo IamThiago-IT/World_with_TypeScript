@@ -1,1 +1,3 @@
 Estudos com typescript
+
+install
