@@ -1,11 +1,11 @@
 # Estudos com typescript
 
-install
+## install
 ```
 
 ```
 
-clone
+## clone
 ```
 
 ```
