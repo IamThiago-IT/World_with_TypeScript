@@ -2,7 +2,7 @@
 
 ## install
 ```
-
+yarn init -y
 ```
 
 ## clone
