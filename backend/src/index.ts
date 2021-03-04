@@ -1,9 +1,14 @@
-import * as express from 'express';
+import express from 'express';
+import cors from 'cors';
+import routes from './routes';
 
 const app = express();
 
-app.get('/', (req, res) => {
-  return res.send('Hello World')
-})
+app.use(cors());
+app.use(routes);
+
+app.listen(3333);
+
+// Babel, Sucresa
 
 app.listen(3333);
