@@ -1,4 +1,3 @@
-
 import { Router } from 'express';
 import UserCrontroller from './controllers/UserCrontroller';
 
