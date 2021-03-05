@@ -1,5 +1,6 @@
 # Backend with Typescript
 
+## :rocket: Tecnologias
 
 - *Typescript*
 - Ts-node-dev
