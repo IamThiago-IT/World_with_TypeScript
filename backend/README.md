@@ -1,5 +1,6 @@
 # Backend with Typescript
 
 
-- ts-node-dev
+- Ts-node-dev
 - Express
+- Cors
