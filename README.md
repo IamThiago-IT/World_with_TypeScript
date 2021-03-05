@@ -10,3 +10,7 @@ yarn init -y
 git.https://github.com/IamThiago-IT/World_with_TypeScript.git
 ```
  
+## 💻 Projeto
+
+## 📄 Licença
+---
