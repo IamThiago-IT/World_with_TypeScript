@@ -1,3 +1,4 @@
 # Backend with Typescript
 
-ts-node-
+
+ts-node-dev
