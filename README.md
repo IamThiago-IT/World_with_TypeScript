@@ -15,3 +15,4 @@ Estudando todas as ares com TypeScript
 
 ## 📄 Licença
 ---
+MIT
