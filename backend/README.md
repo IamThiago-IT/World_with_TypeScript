@@ -7,4 +7,4 @@
 - Express
 - Cors
 
-## install
+## Install
