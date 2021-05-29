@@ -1,3 +1,3 @@
-import react
+import react from
 
 
