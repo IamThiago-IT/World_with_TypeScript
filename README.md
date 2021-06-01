@@ -1,4 +1,4 @@
-# Estudos com typescript
+# Estudos com Typescript
 
 ## install
 ```
