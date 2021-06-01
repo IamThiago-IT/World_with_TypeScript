@@ -1,2 +1,2 @@
 import react from 'react'
-import {} from
+import {} from 'react-native'
